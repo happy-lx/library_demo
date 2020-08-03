@@ -8,7 +8,7 @@
 + C#
 + postgresql
 
-#### plateform
+#### platform
 
 + visual studio 2019
 
